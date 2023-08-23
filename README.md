@@ -10,7 +10,7 @@ All inputs are saved to localStorage to avoid data  loss.
 
 ## Getting Started
 
-Link to the MyAccount hosted on "Netlify.com" -  
+Link to the MyAccount hosted on "Netlify.com" -  https://bankaccountdan.netlify.app
 
 ### Dependencies
 
